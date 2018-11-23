@@ -1,0 +1,24 @@
+C:\Users\Hello\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Hello\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Hello\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.Find.resources
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Hello\source\repos\Notepad\Notepad\obj\Debug\Notepad.Replace.resources
+D:\Projects\WPF - Winform\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Projects\WPF - Winform\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\Projects\WPF - Winform\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.Find.resources
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.Replace.resources
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Projects\WPF - Winform\Notepad\Notepad\obj\Debug\Notepad.pdb
